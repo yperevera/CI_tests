@@ -2,3 +2,5 @@
 __pycache__
 ukr.net
 tests\__pycache__
+virtual-environment
+allure-report
