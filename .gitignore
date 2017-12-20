@@ -1,6 +1,6 @@
 .cache
 __pycache__
 ukr.net
-/tests/*
+tests/__pycache__/*
 virtual-environment
 allure-report
